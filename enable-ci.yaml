@@ -1,0 +1,5 @@
+installer:
+  modules:
+    ci: true
+    cd: true
+
